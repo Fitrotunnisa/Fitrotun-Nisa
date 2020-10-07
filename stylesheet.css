@@ -4,21 +4,28 @@ body {
 
 li {
   list-style: none;
-  /* Gantikan property float ke left */
-  float:left;
+  /* Pindahkan kedua baris dibawah kesekitar baris 25 */
 }
 
 .header {
-  background-color: #f7f2b4;
+  background-color: #26d0c9;
+  color: #fff;
   height: 90px;
 }
 
-/* Gantikan font-size milik header-logo ke 36px, dan property float ke left */
-.header-logo{
-  font-size:36px;
-  float:left;
+.header-logo {
+  float: left;
+  font-size: 36px;
+  padding: 20px 40px;
 }
 
+/* Tambahkan CSS tag <li> yang diatas kedalam header-list */
+.header-list li{
+   float:left;
+   padding:33px 20px
+   }
+   
+   
 .main {
   background-color: #bdf7f1;
   height: 600px;
@@ -28,3 +35,4 @@ li {
   background-color: #ceccf3;
   height: 270px;
 }
+
