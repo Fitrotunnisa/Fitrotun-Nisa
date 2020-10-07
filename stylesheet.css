@@ -1,8 +1,5 @@
-li {
-  color: #444;
+/* Gantikan font-family tag <body> ke "Avenir Next" */
+body{
+  font-family:"Avenir Next";
 }
 
-/* Gantikan warna "selected" ke #ff0000 */
-.selected{
-  color:red;
-}
