@@ -1,19 +1,22 @@
 h1 {
-  color: #ff0000;
-  /* Gantikan font-size ke 40px */
-  font-size: 40px; 
+  color: #e6855e;
+  font-size: 30px;
+  /* Gantikan background-color ke #f3f372 */
+  background-color:#f3f372;
   
-  /* Gantikan font-family ke serif */
+  /* Gantikan height ke 80px */
+  height:80px;
   
-font-family:serif;
+  /* Gantikan width ke 200px */
+  width:200px;
+  
 }
 
-p {
-  color: #0000ff;
-  /* Gantikan font-size ke 20px */
-  font-size: 20px;
+img {
+  /* Gantikan height ke 50px */
   
-  /* Gantikan font-family ke "Lucida Grande" */
+  height:50px;
+  /* Gantikan width ke 70px */
+  width:70px;
   
-  font-family:"Lucida Grande";
 }
