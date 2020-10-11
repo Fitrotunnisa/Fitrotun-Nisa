@@ -167,8 +167,9 @@ header {
 }
 
 .selected {
-  width:50px;
+  width:10px;
   height:50px;
+  margin-right:20px;
   }
 
 
