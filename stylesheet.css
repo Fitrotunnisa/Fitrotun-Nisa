@@ -94,11 +94,12 @@ header {
 }
 
 .header-left {
-  float: left;
-  margin-top: 20px;
-  padding: 25px;
+  line-height: 65px;
+  padding: 0 25px;
   color: white;
   display: block;
+  float: left;
+  transition: all 0.5s;
 }
 
 .header-right {
