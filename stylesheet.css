@@ -191,9 +191,37 @@ header {
   box-shadow: none;
 }
 
-footer img {
-  width: 125px;
+.contact-form{
+  padding-top: 100px;
 }
+input, textarea {
+  width: 400px;
+  margin-top: 10px;
+  margin-bottom: 30px;
+  padding: 20px;
+  font-size: 18px;
+  border: 1px solid #dee7ec;
+}
+
+.contact-submit {
+  background-color: #dee7ec;
+  color: #889eab;
+}
+.footer-logo { 
+  float: left;
+  font-size: 32px;
+}
+
+.footer-list {
+  float: right;
+  color: white;
+}
+ 
+  
+  
+
+
+
 
 footer p {
   color: #b3aeb5;
