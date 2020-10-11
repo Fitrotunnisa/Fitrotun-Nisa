@@ -91,11 +91,14 @@ header {
 
 .logo {
   width: 124px;
-  margin-top: 20px;
 }
 
 .header-left {
   float: left;
+  margin-top: 20px;
+  padding: 25px;
+  color: white;
+  display: block;
 }
 
 .header-right {
