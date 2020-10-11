@@ -172,6 +172,12 @@ header {
   font-weight: normal;
 }
 
+.selected {
+  width: 50px;
+  height: 100px;
+  padding: 20px 10px;
+}
+
 .message-wrapper {
   border-bottom: 1px solid #eee;
   padding-bottom: 80px;
