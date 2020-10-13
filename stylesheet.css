@@ -219,11 +219,11 @@ input, textarea {
   font-size: 32px;
 }
   
-.footer-list{
+.footer-right{
    float: right;
 }
   
-.footer list li {
+.footer-right i {
   padding-bottom: 20px;
 }
 .footer p {
@@ -232,8 +232,8 @@ input, textarea {
 }
 
 footer {
-  padding-top: 30px;
-  padding-bottom: 20px;
+ 
+
   background-color: #2f5167;
   color: #fff;
 }
