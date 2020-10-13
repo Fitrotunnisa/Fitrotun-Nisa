@@ -25,7 +25,7 @@ a {
   padding: 180px 0 100px 0;
   background-image: url(BAKGROUND,.jpg);
   background-size: cover;
-  color: blue;
+  color: #fff;
   text-align: center;
 }
 
@@ -34,7 +34,7 @@ a {
   font-size: 45px;
   letter-spacing: 5px;
   margin-bottom: 10px;
-  color: pink;
+  color: ;
 }
 
 .top-wrapper p {
@@ -214,8 +214,19 @@ input, textarea {
   color: #889eab;
 }
 
-
-footer p {
+.footer-logo {
+  float: left;
+  font-size: 32px;
+}
+  
+.footer-list{
+   float: right;
+}
+  
+.footer list li {
+  padding-bottom: 20px;
+}
+.footer p {
   color: #b3aeb5;
   font-size: 12px;
 }
@@ -223,4 +234,6 @@ footer p {
 footer {
   padding-top: 30px;
   padding-bottom: 20px;
+  background-color: #2f5167;
+  color: #fff;
 }
