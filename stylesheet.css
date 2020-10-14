@@ -224,12 +224,12 @@ footer {
   background-color: rgba(34, 49, 52, 0.9);
 }
 
-footer-logo {
+.footer-logo {
   float: left;
   font-size: 32px;
 }
 
-footer p {
+.footer-logo p {
   color: #b3aeb5;
   font-size: 12px;
   position :fixed;
