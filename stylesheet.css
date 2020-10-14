@@ -219,11 +219,11 @@ input, textarea {
   font-size: 32px;
 }
   
-.footer-right{
+.footer-list{
    float: right;
 }
   
-.footer-right li {
+.footer-list li {
   padding-bottom: 20px;
 }
 .footer p {
