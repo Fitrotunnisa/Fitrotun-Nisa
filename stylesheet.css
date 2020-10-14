@@ -219,7 +219,7 @@ input, textarea {
 }
 
 footer {
-  padding-top: 30px;
+  padding-top: 20px;
   padding-bottom: 20px;
   background-color: rgba(34, 49, 52, 0.9);
 }
@@ -227,10 +227,11 @@ footer {
 .footer-logo {
   float: left;
   font-size: 32px;
+  color: white;
 }
 
 .footer-logo p {
-  color: #b3aeb5;
+  color: white;
   font-size: 12px;
   position :fixed;
   float: left;
