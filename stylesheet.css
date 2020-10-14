@@ -23,7 +23,7 @@ a {
 
 .top-wrapper {
   padding: 180px 0 100px 0;
-  background-image: url();
+  background-image: url(annie-spratt-BrfCiLC7Grc-unsplash.jpg);
   background-size: cover;
   color: #ff1493;
   text-align: center;
@@ -174,7 +174,7 @@ header {
 }
 
 .selected {
-  width: 300px;
+  width: 200px;
   height: 300px;
   border: 
 }
@@ -200,7 +200,7 @@ header {
 
 .contact-form {
   padding-top: 100px;
-  background-color: #ff9b4;
+  background-color: #ffb6c1;
 }
 
 input, textarea {
@@ -220,16 +220,7 @@ input, textarea {
 .footer-logo {
   float: left;
   font-size: 32px;
-}
-  
-.footer-list{
-  float: right;
-}
-  
-.footer-list li {
-  padding-bottom: 20px;
-  float: right;
-  
+
 }
 .footer p {
   color: #b3aeb5;
