@@ -23,7 +23,7 @@ a {
 
 .top-wrapper {
   padding: 180px 0 100px 0;
-  background-image: url(darren-nunis-cxE7SXKnzv0-unsplash.jpg)
+  background-image: url(BAKGROUND,.jpg);
   background-size: cover;
   color: #ff1493;
   text-align: center;
@@ -176,6 +176,7 @@ header {
 .selected {
   width: 300px;
   height: 300px;
+  border: 
 }
 
 .message-wrapper {
@@ -222,22 +223,19 @@ input, textarea {
 }
   
 .footer-list{
-   float: right;
+  float: right;
 }
   
 .footer-list li {
   padding-bottom: 20px;
   float: right;
+  
 }
 .footer p {
   color: #b3aeb5;
   font-size: 12px;
 }
 
-.footer {
- background-color: #2f5167 ;
- color: #fff;
-}
 
 
   
