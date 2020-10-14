@@ -218,16 +218,21 @@ input, textarea {
   color: #889eab;
 }
 
-.footer-logo {
+footer {
+  padding-top: 30px;
+  padding-bottom: 20px;
+  background-color:#000080;
+}
+
+footer-logo {
   float: left;
   font-size: 32px;
-
 }
-.footer p {
+
+footer p {
   color: #b3aeb5;
   font-size: 12px;
   position :fixed;
-  display: block;
   float: left;
 }
 
