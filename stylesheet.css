@@ -226,6 +226,9 @@ input, textarea {
 .footer p {
   color: #b3aeb5;
   font-size: 12px;
+  position :fixed;
+  display: block;
+  float: left;
 }
 
 
