@@ -225,6 +225,7 @@ input, textarea {
   
 .footer-list li {
   padding-bottom: 20px;
+  float: right;
 }
 .footer p {
   color: #b3aeb5;
