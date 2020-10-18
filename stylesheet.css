@@ -188,7 +188,7 @@ header {
 
 .message {
   padding: 15px 40px;
-  background-color: rgba(249, 19, 147);
+  background-color: #ff1493;
   cursor: pointer;
   box-shadow: 0 7px #1a7940;
 }
