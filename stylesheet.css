@@ -84,7 +84,7 @@ a {
 header {
   height: 65px;
   width: 100%;
-  background-color: rgba(240, 255, 240);
+  background-color: rgba(249, 19, 147);
   position :fixed;
   top: 0;
   z-index: 10;
@@ -221,7 +221,7 @@ input, textarea {
 footer {
   padding-top: 20px;
   padding-bottom: 20px;
-  background-color: rgba(240, 255, 240);
+  background-color: rgba(249, 19, 147);
 }
 
 .footer-logo {
@@ -236,8 +236,3 @@ footer {
   position :fixed;
   float: left;
 }
-
-
-
-  
-
