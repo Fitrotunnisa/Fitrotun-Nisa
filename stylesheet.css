@@ -226,13 +226,13 @@ footer {
 
 .footer-logo {
   float: left;
-  font-size: 32px;
-  color: white;
+  font-size: 35px;
+  color: black;
 } 
 
 footer p {
   color: white;
-  font-size: 12px;
+  font-size: 10px;
   position :fixed;
   float: left;
 }
