@@ -42,8 +42,8 @@
     .menu-icon {
         display: block;
     }
-    .sumbit {
-        width: 100%;
+
+
     }
     .email {
         width: 100%;
@@ -54,6 +54,9 @@
     .contact-form p {
         width: 100%;
         text-align: center;
+    }
+    .contact-submit {
+        width: 100px;
     }
       
 }
