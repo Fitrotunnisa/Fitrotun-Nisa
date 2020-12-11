@@ -45,5 +45,15 @@
     .contact-sumbit {
         width: 100%;
     }
+    .email {
+        width: 100%;
+    }
+    .input, textarea {
+        width: 100%;
+    }
+    .contact-form p {
+        width: 100%;
+        text-align: center;
+    }
       
 }
