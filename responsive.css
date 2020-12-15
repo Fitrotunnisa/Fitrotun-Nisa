@@ -42,7 +42,9 @@
     .menu-icon {
         display: block;
     }
-
+    .contact-submit {
+        width: 100%;
+    }
 
     }
     .email {
@@ -57,7 +59,7 @@
     }
     .contact-submit {
         width: 100%;
-       
-    }
+    } 
+   
       
 }
