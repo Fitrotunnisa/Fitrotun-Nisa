@@ -198,6 +198,13 @@ header {
   top: 7px;
   box-shadow: none;
 }
+.text-contents {
+  width: 80%;
+  display: inline-block;
+  margin-top: 15px;
+  font-size:15px;
+  color: #000000;
+}
 
 .contact-form {
   padding-top: 100px;
